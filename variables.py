@@ -1,5 +1,7 @@
 # some basic rules
-#
+# -- use lower case
+# -- name should be meaningful(descriptive)
+# -- must use underscore instead of space
 
 score = 27
 rating = 4.63
