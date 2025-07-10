@@ -36,8 +36,3 @@ def multiple_numbers(*tupple):
 
 
 print('Result of mulitplying numbers : ', multiple_numbers(2, 1, 5, 3, 6, 9))
-
-# file handling
-# messgae = "Welcome to python crash course"
-# file = open("greeting.txt", 'w')
-# file.write(messgae)
